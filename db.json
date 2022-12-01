@@ -1,0 +1,159 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "id_user": 1,
+        "date": "14 NOV 2022",
+        "imageUrl": "https://i.postimg.cc/QCM3RJTb/06.png",
+        "category": "games",
+        "title": "O que tem de novo no PS5? Tudo o que você precisa saber.",
+        "resume": "Acabou de sair esse grande lançamento dos consoles. Leia esse artigo para saber das novidades!",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
+        "duration": "10",
+        "star": "3",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 2,
+        "id_user": 1,
+        "date": "18 SET 2022",
+        "imageUrl": "https://i.postimg.cc/jSfb05LG/07.png",
+        "category": "tecnologia",
+        "title": "Novos processadores da 12° geração da intel chegaram.",
+        "resume": "Os novos processadores da intel vieram para bater de frente com os novos Ryzen? Tem nova arquitetura semelhante à prática da grande Apple.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
+        "duration": "7",
+        "star": "5",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 3,
+        "id_user": 3,
+        "date": "01 NOV 2022",
+        "imageUrl": "https://i.postimg.cc/26kRZ72D/09.png",
+        "category": "fotografia",
+        "title": "Qual a melhor câmera CxB para fotos e vídeos em 2022?",
+        "resume": "Com o lançamento de novas câmeras, qual a melhor? DSLR ou mirrorless? Qual o melhor custo benefício?",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
+        "duration": "15",
+        "star": "5",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 4,
+        "id_user": 3,
+        "date": "10 OUT 2022",
+        "imageUrl": "https://i.postimg.cc/ZqhhTSN0/03.png",
+        "category": "cinema",
+        "title": "Top 10 Filmes de 2022.",
+        "resume": "Por mais que a pandemia tenha atrapalhado a gravação de vários filmes, temos muitas novidades para esse final de ano. Confira os top 10 filmes que prometem para o final de 2022.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
+        "duration": "8",
+        "star": "4",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 5,
+        "id_user": 2,
+        "date": "07 OUT 2022",
+        "imageUrl": "https://i.postimg.cc/8cnSDfdV/01.png",
+        "category": "tecnologia",
+        "title": "Novos Mackbooks em 2022.",
+        "resume": "FINALMENTE! Os novos macbooks são lançados pela Apple com novos processadores e o termo PRO volta a fazer sentido! Os resultados são de supreender.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
+        "duration": "8",
+        "star": "5",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 6,
+        "id_user": 3,
+        "date": "07 OUT 2022",
+        "imageUrl": "https://i.postimg.cc/L4yRjwc0/02.png",
+        "category": "tecnologia",
+        "title": "Air Pods 3° geração vs. Air Pods Pro",
+        "resume": "Com o lançamento dos novos airpods de 3 geração, eles se aproximaram dos air pods pro? Será que vale a pena? É isso que vamos falar nesse artigo.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
+        "duration": "8",
+        "star": "3",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 7,
+        "id_user": 1,
+        "date": "07 NOV 2022",
+        "imageUrl": "https://i.postimg.cc/hGbRv58s/05.png",
+        "category": "tecnologia",
+        "title": "Vale a pena comprar Bitcoin em 2022?",
+        "resume": "Vale a pena comprar Bitcoin hoje? Mesmo diante do preço do ativo em queda desde o começo do ano, entenda os motivos para considerar comprar BTC hoje.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
+        "duration": "8",
+        "star": "4",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 8,
+        "id_user": 1,
+        "date": "21 NOV 2022",
+        "imageUrl": "https://i.postimg.cc/SNJ4dVqQ/08.png",
+        "category": "tecnologia",
+        "title": "PC Gamer em 2022? Está muito caro.",
+        "resume": "Vocês já viram os preços de comprar um PC Gamer em plena pandemia covid-19? Escrevi um pouco sobre o que esperar daqui pra frente.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque. Ultricies habitasse pretium purus viverra.",
+        "duration": "8",
+        "star": "4",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id_user": 1,
+        "date": "2022-11-21",
+        "imageUrl": "https://nyousefali.com.br/blog/img/08.png",
+        "category": "cinema",
+        "title": "O novo filme do Spider-man no way home",
+        "resume": "Aqui é um resumo do posto: O novo filme do Spider-man no way home",
+        "content": "Conteúdo do post do spiderman\n",
+        "duration": "7",
+        "star": "4",
+        "views": "10",
+        "status": true,
+        "id": 9
+      }
+    ],
+    "user": [
+      {
+        "id": 1,
+        "user": "wilker",
+        "name": "Jean",
+        "surname": "Wilker",
+        "token": "E10ADC3949BA59ABBE56E057F20F883E",
+        "description": "Sou desenvolvedor front-end e tenho conhecimentos em JavaScript, CSS, HTML e ReactJS. Já desenvolvi projetos utilizando essas tecnologias, prezando os princípios de código limpo e boas práticas de versionamento no GitHub. Tenho aptidão para melhoria contínua e venho aprimorando meus conhecimentos a cada dia... Estou sempre disposto a ajudar e a entregar resultados.",
+        "imageProfile": "https://avatars.githubusercontent.com/u/90947397?v=4"
+      },
+      {
+        "id": 2,
+        "user": "emily",
+        "name": "Emily",
+        "surname": "Grace",
+        "token": "E10ADC3949BA59ABBE56E057F20F883E",
+        "description": "Sou UI Designer e apaixonada por tecnologia. Crio interfaces e escrevo para o blog.",
+        "imageProfile": "https://i.postimg.cc/gkcdrz1X/juliana.png"
+      },
+      {
+        "id": 3,
+        "user": "alex",
+        "name": "Alex",
+        "surname": "Jacob",
+        "token": "E10ADC3949BA59ABBE56E057F20F883E",
+        "description": "Sou fotógrafo profissional, amante de cinema e tecnologia. Colunista e nas horas vagas escrevo para o blog.",
+        "imageProfile": "https://i.postimg.cc/ryNM80Z2/alex.png"
+      }
+    ]
+  }
